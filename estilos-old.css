@@ -1,0 +1,34 @@
+body {
+  background-color: #746e6e;
+}
+.oldversion {
+  display: block;
+}
+.oldversion img {
+  display: block;
+  width: 97%;
+  height: auto;
+  margin: auto;
+  border: solid black 2px;
+}
+#contenedor {
+  width: 100%;
+  height: auto;
+}
+
+@media handheld, screen and (max-width: 599px) {
+  body {
+    background-color: #7ec8e6;
+    line-height: 1, 6;
+    letter-spacing: 0.03em;
+    font-family: "Lato", sans-serif;
+  }
+
+  .oldversion img {
+    display: block;
+    width: 100%;
+    height: auto;
+    margin: auto;
+    border: none;
+  }
+}
