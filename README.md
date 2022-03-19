@@ -2,6 +2,8 @@
 # Señor X.
 Trabajo final , recreación del website del Señor X de Homero Simpsons, página estática responsive/mobile. 
 
+https://sr-x.netlify.app/
+
 +HTML
 +CSS
 
