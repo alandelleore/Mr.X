@@ -1,6 +1,6 @@
 # Proyecto Final Diseño Web Responsive - HTML5 y CSS3 - UTN // Elearning-Total
 # Señor X.
-Trabajo final , recreación del website del Señor X de Homero Simpsons, página estática responsive/mobile. 
+Trabajo final , recreación del website del Señor X de Homero Simpson, página estática responsive/mobile. 
 
 https://sr-x.netlify.app/
 
